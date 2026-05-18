@@ -1,2 +1,1 @@
-# .github
-CommuniHacks Overview
+# CommuniHacks Overview
